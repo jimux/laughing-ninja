@@ -1,0 +1,6 @@
+c:\users\james smyth\documents\visual studio 2012\Projects\RemovableStorageWatcher\RemovableStorageWatcher\bin\Debug\RemovableStorageWatcher.exe.config
+c:\users\james smyth\documents\visual studio 2012\Projects\RemovableStorageWatcher\RemovableStorageWatcher\bin\Debug\RemovableStorageWatcher.exe
+c:\users\james smyth\documents\visual studio 2012\Projects\RemovableStorageWatcher\RemovableStorageWatcher\bin\Debug\RemovableStorageWatcher.pdb
+c:\users\james smyth\documents\visual studio 2012\Projects\RemovableStorageWatcher\RemovableStorageWatcher\obj\Debug\RemovableStorageWatcher.csprojResolveAssemblyReference.cache
+c:\users\james smyth\documents\visual studio 2012\Projects\RemovableStorageWatcher\RemovableStorageWatcher\obj\Debug\RemovableStorageWatcher.exe
+c:\users\james smyth\documents\visual studio 2012\Projects\RemovableStorageWatcher\RemovableStorageWatcher\obj\Debug\RemovableStorageWatcher.pdb
