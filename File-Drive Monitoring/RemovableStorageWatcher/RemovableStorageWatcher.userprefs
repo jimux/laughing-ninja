@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RemovableStorageWatcher/Program.cs">
+    <Files>
+      <File FileName="RemovableStorageWatcher/Program.cs" Line="34" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jimmy/Desktop/dev/laughing-ninja/File-Drive Monitoring/RemovableStorageWatcher/RemovableStorageWatcher/Program.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
